@@ -12,3 +12,4 @@ Dashboard UI
 >>>>>>> f5c19db (Added Dashboard)
 Profile 1
 profile 2
+profile 3
