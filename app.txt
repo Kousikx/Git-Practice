@@ -10,3 +10,4 @@ Main improvement
 =======
 Dashboard UI
 >>>>>>> f5c19db (Added Dashboard)
+Profile 1
